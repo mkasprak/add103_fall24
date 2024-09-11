@@ -1,0 +1,28 @@
+/* Styles */
+body{
+    background-color:darkslategray;
+    color: ivory;
+    font-size:large;
+    font-weight: bold;
+}
+
+.container{
+    width: 80%;
+    margin: 15px auto;
+}
+
+h1{
+    color:cornsilk;
+
+}
+div{
+    width: 30%;
+}
+header{
+    text-align: center;
+    font-family:fantasy;
+}
+
+div, header, main, footer{
+    border: 2px solid orange;
+}
